@@ -1,0 +1,10 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\NavigationProperties.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\NavigationProperties.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\NavigationProperties.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\obj\Debug\NavigationProperties.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\obj\Debug\NavigationProperties.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\NavigationProperties\NavigationProperties\obj\Debug\NavigationProperties.pdb
